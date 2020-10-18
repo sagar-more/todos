@@ -1,0 +1,4 @@
+# files/directory to ignore
+node_modules
+.cache
+public
